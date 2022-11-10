@@ -3,9 +3,7 @@
 <a href="mailto:nostall.jian@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nostall.jian@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> -->
 
 <!-- VISIT COUNTER -->
-[![Hits](https://hits.sh/github.com/NOSTALJIAN/hits.svg?view=today-total&style=flat-square&color=a0a0a0&labelColor=f68888)](https://hits.sh/github.com/NOSTALJIAN/hits/)
-
-<br>
+[![Hits](https://hits.sh/github.com/NOSTALJIAN/hits.svg?view=today-total&style=flat-square&color=a0a0a0&labelColor=f68888)](https://hits.sh/github.com/NOSTALJIAN/hits/) <p>
 
 <!-- BADGE START -->
 [![GitHub Badge](https://img.shields.io/badge/NOSTALJIAN-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NOSTALJIAN)
