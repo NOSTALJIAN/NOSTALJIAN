@@ -4,6 +4,10 @@
 
 <!-- VISIT COUNTER -->
 [![Hits](https://hits.sh/github.com/NOSTALJIAN/hits.svg?view=today-total&style=flat-square&color=a0a0a0&labelColor=f68888)](https://hits.sh/github.com/NOSTALJIAN/hits/) <p>
+<!-- HTML -->
+<!-- <a href="https://hits.sh/github.com/NOSTALJIAN/hits/"><img alt="Hits" src="https://hits.sh/github.com/NOSTALJIAN/hits.svg?view=today-total&style=flat-square&color=a0a0a0&labelColor=f68888"/></a> -->
+<!-- Image Link -->
+<!-- https://hits.sh/github.com/NOSTALJIAN/hits.svg?view=today-total&style=flat-square&color=a0a0a0&labelColor=f68888 -->
 
 <!-- BADGE START -->
 [![GitHub Badge](https://img.shields.io/badge/NOSTALJIAN-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NOSTALJIAN)
