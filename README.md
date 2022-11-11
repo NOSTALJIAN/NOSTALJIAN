@@ -1,5 +1,5 @@
 <!-- MY GITHUB STATISTICS -->
-[![Jian's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOSTALJIAN)](https://github.com/NOSTALJIAN/github-readme-stats)
+[![Jian's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOSTALJIAN&count_private=true&show_icons=true)](https://github.com/NOSTALJIAN/github-readme-stats)
 
 <!-- BADGE HTML -->
 <!-- <a href="https://github.com/NOSTALJIAN" target="_blank"><img src="https://img.shields.io/badge/NOSTALJIAN-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
