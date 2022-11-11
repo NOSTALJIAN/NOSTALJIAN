@@ -1,3 +1,7 @@
+<!-- MY GITHUB STATISTICS -->
+[![Jian's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOSTALJIAN)](https://github.com/NOSTALJIAN/github-readme-stats)
+
+<!-- BADGE HTML -->
 <!-- <a href="https://github.com/NOSTALJIAN" target="_blank"><img src="https://img.shields.io/badge/NOSTALJIAN-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://nostal-jian.tistory.com" target="_blank"><img src="https://img.shields.io/badge/JIAN's&nbsp;BLOG-F856F3?style=flat-square&logo=GitHub Sponsors&logoColor=white"></a>
 <a href="mailto:nostall.jian@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nostall.jian@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> -->
