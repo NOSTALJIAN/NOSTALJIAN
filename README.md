@@ -1,4 +1,4 @@
-# ![HEAD IMAGE](../TIL/IMAGE/PalaceOfVersailles.jpg "베르사유궁전")
+# ![HEAD IMAGE](/IMAGE/PalaceOfVersailles.jpg "베르사유궁전")
 
 <!-- VISITOR COUNTER -->
 [![Hits](https://hits.sh/github.com/NOSTALJIAN/hits.svg?view=today-total&style=flat-square&color=a0a0a0&labelColor=f68888)](https://hits.sh/github.com/NOSTALJIAN/hits/)
