@@ -1,5 +1,6 @@
-<!-- HEADER START -->
-<!-- ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical) -->
+# __Hello, There__
+
+I'm Jian 👋🏻
 
 <!-- MY GITHUB STATISTICS -->
 <!-- [![Jian's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOSTALJIAN&count_private=true&show_icons=true)](https://github.com/NOSTALJIAN/github-readme-stats) -->
@@ -21,9 +22,6 @@
 [![GitHub Badge](https://img.shields.io/badge/NOSTALJIAN-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NOSTALJIAN)
 [![Mail Badge](https://img.shields.io/badge/nostall.jian@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:nostall.jian@gmail.com)
 
----
-
 <br>
 
-<!-- README Start-->
-👋🏻 Hi ! I'm Jian Seo.
+<!-- END -->
