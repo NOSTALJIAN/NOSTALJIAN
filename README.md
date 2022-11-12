@@ -17,6 +17,8 @@ I'm Jian 👋🏻
 ![HTML5Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![GitHubBadge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![VSCodeBadge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![EclipseIDEBadge](https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
 <!-- ![PythonBadge]() -->
 <!-- ![JavaScriptBadge]() -->
 <!-- ![MySQLBadge]() -->
