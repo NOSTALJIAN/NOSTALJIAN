@@ -3,12 +3,13 @@
 <!-- VISITOR COUNTER -->
 [![Hits](https://hits.sh/github.com/NOSTALJIAN/hits.svg?view=today-total&style=flat-square&color=a0a0a0&labelColor=f68888)](https://hits.sh/github.com/NOSTALJIAN/hits/)
 
-__Hello, There__ <br>
+**Hello, There** <br>
 I'm Jian 👋🏻
 
 <br>
 
 ---
+
 <!-- BADGE START -->
 
 ## 📚 Skills
