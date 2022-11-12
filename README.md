@@ -10,6 +10,20 @@ I'm Jian 👋🏻
 
 ---
 <!-- BADGE START -->
+
+## 📚 Skills
+
+![JavaBadge](https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white)
+![HTML5Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![GitHubBadge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+<!-- ![PythonBadge]() -->
+<!-- ![JavaScriptBadge]() -->
+<!-- ![MySQLBadge]() -->
+<!-- ![C++Badge]() -->
+
+## 📱 Contacts Me <br>
+
 [![Mail Badge](https://img.shields.io/badge/NOSTALL.JIAN@GMAIL.COM-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:nostall.jian@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/JIAN's&nbsp;GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NOSTALJIAN)
 [![Blog Badge](https://img.shields.io/badge/JIAN's&nbsp;BLOG-81C5BD?style=flat-square&logo=GitHubSponsors&logoColor=white)](https://nostal-jian.tistory.com)
