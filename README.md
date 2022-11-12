@@ -27,7 +27,7 @@ I'm Jian 👋🏻
 ## 📱 Contacts Me <br>
 
 [![Mail Badge](https://img.shields.io/badge/NOSTALL.JIAN@GMAIL.COM-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:nostall.jian@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/JIAN's&nbsp;GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NOSTALJIAN)
+[![GitHub Badge](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NOSTALJIAN)
 [![Blog Badge](https://img.shields.io/badge/JIAN's&nbsp;BLOG-81C5BD?style=flat-square&logo=GitHubSponsors&logoColor=white)](https://nostal-jian.tistory.com)
 
 <!-- END -->
